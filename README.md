@@ -46,55 +46,7 @@ Currently exploring the world of **Data Science and AI**, while experimenting wi
 </p>
 
 ---
----
 
-## What I'm Into
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Data Science
-Interested in finding patterns in data, understanding statistics and eventually building useful data-driven applications.
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence
-Currently getting into AI and exploring how intelligent systems work, from the fundamentals to practical applications.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Game Development
-Previously worked with Unity and C#. Still interested in game mechanics, development and interactive experiences.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Programming
-Enjoy experimenting with different languages, learning how things work under the hood and building random projects.
-
-</td>
-</tr>
-</table>
-
----
-
-## Currently Learning
-
-- Strengthening my Python fundamentals
-- Exploring Data Science and its ecosystem
-- Getting started with AI and Machine Learning
-- Improving problem-solving and programming skills
-
----
-
-<p align="center">
-  <i>Curiosity-driven development. One project at a time.</i>
-</p>
 ### Find Me
 
 <p>
