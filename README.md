@@ -1,4 +1,4 @@
-# Hey, I'm Ved 👋
+# Hey, I'm Vedant 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&width=500&lines=First-year+CSE+student;Aspiring+Data+Scientist;Exploring+AI+%26+Machine+Learning;Building+things+and+breaking+things" />
