@@ -46,38 +46,55 @@ Currently exploring the world of **Data Science and AI**, while experimenting wi
 </p>
 
 ---
+---
 
-## A Little About My Setup
+## What I'm Into
 
-```bash
-$ fastfetch
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| | |
-|:---|:---|
-| OS | Arch Linux |
-| Desktop | Hyprland |
-| Terminal | Kitty |
-| Editor | Neovim |
-| Version Control | Git |
+### 📊 Data Science
+Interested in finding patterns in data, understanding statistics and eventually building useful data-driven applications.
 
-I enjoy customizing my development environment almost as much as using it.
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+Currently getting into AI and exploring how intelligent systems work, from the fundamentals to practical applications.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Game Development
+Previously worked with Unity and C#. Still interested in game mechanics, development and interactive experiences.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Programming
+Enjoy experimenting with different languages, learning how things work under the hood and building random projects.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Statistics
+## Currently Learning
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=09xVed&show_icons=true&theme=github_dark&hide_border=true&icon_color=1793D1&title_color=1793D1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=09xVed&layout=compact&theme=github_dark&hide_border=true&title_color=1793D1" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=09xVed&theme=github-dark-blue&hide_border=true" />
-</p>
+- Strengthening my Python fundamentals
+- Exploring Data Science and its ecosystem
+- Getting started with AI and Machine Learning
+- Improving problem-solving and programming skills
 
 ---
 
+<p align="center">
+  <i>Curiosity-driven development. One project at a time.</i>
+</p>
 ## Find Me
 
 <p>
