@@ -53,7 +53,7 @@ Currently exploring the world of **Data Science and AI**, while experimenting wi
   <a href="https://github.com/09xVed">
     <img src="https://img.shields.io/badge/GitHub-09xVed-181717?style=for-the-badge&logo=github" />
     <a href="https://discord.com/users/1247573811457687674">
-      <img src="https://img.shields.io/badge/Discord-\_penp3n\_-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      <img src="https://img.shields.io/badge/Discord-__penp3n__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
